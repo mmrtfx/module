@@ -1,0 +1,39 @@
+:root {
+    /* Кольори */
+    --color-phon: #C2B3A3;
+    --color-brown: #754B42;
+    --color-light-brown: #A97D5E;
+    --color-gray: #93AB9D;
+    --color-dark: #172523;
+    --color-dark-gray: #374C4A;
+    /* Шрифти та їх розміри */
+    --font-family-h: "Cormorant Infant", serif;
+    --font-family-text: "Cormorant Upright", serif;
+    --font-size-h: 65px;
+    --font-size-h1: 50px;
+    --font-size-h2: 30px;
+    --font-size-h3: 25px;
+    --font-size-h4: 22px;
+    /* Розміри сайту */
+    --width: 1440px;
+    --height-header: auto;
+    /* Стилі шрифтів */
+    --font-weight-h1: bold;
+    --font-style-h2: 600;
+    --font-style-h3: 600;
+    /* Зроблено автоматичним для адаптації */
+    --width-header: 430px;
+    --height-menu: 175px;
+    --width-menu: 1010px;
+    --width-main: 1010px;
+    --height-main: 875px;
+    --width-footer: 300px;
+    --height-footer: 300px;
+    --height-sidebar: 300px;
+    --width-sidebar: 1010px;
+    --Img: 250px;
+    /* Відступи */
+    --padding-left: 120px;
+    /* Поля для текстових блоків */
+    --padding-text: 50px;
+}
